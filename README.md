@@ -1,4 +1,4 @@
-﻿# guided_t20_cricket_project
+﻿# guided-t20-cricket-project
 
 Reference Video: https://www.youtube.com/watch?v=4QkYy1wANXA
 
